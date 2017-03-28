@@ -1,7 +1,7 @@
 # OS-Altitude-Datalogger
 Open Source Code and Design Files for the TI MSP430FR5969 and Bosch BME280 Altitude Datalogger
 
-The following repository contains the drivers, software, and EAGLE files to use the Bosch BME280 pressure/temperature sensor in conjunction with the Texas Instruments MSP430FR5969 FRAM MCU to create a low power datalogger. 
+The following repository contains the drivers, software, and EAGLE files to create a low power datalogger capable of recording pressure and temperature. 
 
 # About the BME280
 (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf) 
