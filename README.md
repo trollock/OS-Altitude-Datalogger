@@ -10,8 +10,7 @@ The following repository contains the drivers, software, and EAGLE files to crea
 The MSP430FR596 is an ultra-low power MCU capable of recording up to 64 kB of data to non-volatile FRAM memory.  FRAM (ferro-magnetic Random Access Memory) has advantages over other memory types such as flash by require 
 (http://www.ti.com/lit/ds/symlink/msp430fr5969.pdf) 
 
-To install
-
+# To install
 Dowload this repository as a zip
 Unzip file and rename to "MSP430FR5949_LP"
 Locate the Folder where the Energia applicaiton is installed
