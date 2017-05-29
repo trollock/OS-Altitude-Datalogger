@@ -1,5 +1,5 @@
 # OS-Altitude-Datalogger
-Open Source Code and Design Files for the TI MSP430FR5969 and Bosch BME280 Altitude Datalogger
+Open Source Code and Design Files for the TI MSP430FR5949 and Bosch BME280 Altitude Datalogger
 
 The following repository contains the drivers, software, and EAGLE files to create a low power datalogger capable of recording pressure and temperature. 
 
@@ -8,7 +8,7 @@ The following repository contains the drivers, software, and EAGLE files to crea
 
 # About the MSP430FR5969
 The MSP430FR596 is an ultra-low power MCU capable of recording up to 64 kB of data to non-volatile FRAM memory.  FRAM (ferro-magnetic Random Access Memory) has advantages over other memory types such as flash by require 
-(http://www.ti.com/lit/ds/symlink/msp430fr5969.pdf) 
+http://www.ti.com/product/MSP430FR5949
 
 # To install
 Dowload this repository as a zip
