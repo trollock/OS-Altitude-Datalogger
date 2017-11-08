@@ -1,4 +1,4 @@
-Note: version 3.0.0 is undergoing revision, merge of version 4.0.0 expected October 2017. It is strongly advised to await improvements in v 4.0.0.
+Note: version 3.0.0 is undergoing revision, merge of version 4.0.0 expected November 2017. It is strongly advised to await improvements in v 4.0.0.
 
 # OS-Altitude-Datalogger
 Open Source Code and Design Files for the TI MSP430FR5949 and Bosch BME280 Altitude Datalogger
