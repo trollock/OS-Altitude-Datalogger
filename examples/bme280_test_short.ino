@@ -10,7 +10,7 @@ Version 3.0.0 Upgraded to smaller BME_280 sensor that includes humidity measurem
 #include <Wire.h>
 #include "RTClib.h"
 
-/* Variables to change related to datalogger operation schedule
+/* Variables related to datalogger operation schedule
 --------------------------------------------------------------------------------------*/
 int sampleInterval = 1;                           // time between samples in seconds
 
